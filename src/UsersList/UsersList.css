@@ -1,0 +1,21 @@
+
+.usersListContainer {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+.usersList {
+    list-style: none;
+    padding: 0;
+}
+
+.usersSelectedLabel {
+    text-align: left;
+}
+
+.confirmButton {
+    background: #76CDD3;
+    border: 0;
+    float:left;
+    padding: 6px 12px;
+}
